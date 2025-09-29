@@ -45,6 +45,7 @@ Now you’re ready to edit `story.md` and follow the steps below.
 
 ## Step 1: Setting & Characters
 *(Commit message: "Created setting and characters")*
+Come up with an idea for a main character and at least two supporting characters. Try [Mr. Kiang's Story Spinner](https://www.kiang.net/spinner) for ideas.
 
 **AI Prompt Ideas:**  
 - “Suggest three interesting settings for a story about teenagers.”  
@@ -53,19 +54,19 @@ Now you’re ready to edit `story.md` and follow the steps below.
 - “Help me write the start of a Story Spine: ‘Once upon a time…’ and ‘Every day…’”  
 
 **Your Story Elements:**  
-- **Setting (time + place):**  
+- **Setting (time + place):** A crowded shopping mall during the holiday season.
 - **Main Character:**  
-  - Name:  
-  - Strengths:  
-  - Flaws:  
-  - Goal:  
+  - Name: Florian Persson
+  - Strengths: He is a nimble and accomplished thief with a Robin Hood complex
+  - Flaws: He takes impossible risks to help those in need
+  - Goal: He is obsessed with balancing the scales between those who have and those who have not
 - **Supporting Characters:**  
-  - Character 1:  
-  - Character 2:  
+  - Character 1: Arthur, Security Guard #1, a young idealistic Javert-type character who despises thoeves, even those stealing from the rich and giving to the poor.
+  - Character 2: Harold, an older, seasoned character who has seen it all, and knows that a mall without Florian is a worse mall.
 
 - **Story Spine (beginning):**  
-  - *Once upon a time…*  
-  - *Every day…*  
+  - *Once upon a time…* there was a former thief named Florian who steals from shoplifters and gives to random strangers. 
+  - *Every day…* he follows shoplifters, waits until they steal something, then pickpockets their goods and deposits them in another shopper's bag.
 
 ---
 

@@ -4,7 +4,7 @@ You will create a story step by step using the Pixar Story Spine.
 At each step, save and commit your work in GitHub Desktop.
 
 
-## Getting Started: Create and Publish Your Repo
+## Getting Started: Accept the GitHub Classroom link
 
 1. Open **GitHub Desktop**.  
 2. Go to the menu bar and click **File > New Repository…**  
@@ -27,7 +27,7 @@ Now you’re ready to edit `story.md` and follow the steps below.
 1. **Edit** this file (`story.md`) in TextEdit.  
 2. **Save** your changes.  
 3. Open **GitHub Desktop**.  
-   - Check that `story.md` shows up under **Changes**.  
+   - Check that `story.md` shows up under **Changes**.    
    - Write a commit summary (see below).  
    - Click **Commit to main**.  
 4. Click **Push origin** (top bar) to upload to GitHub.com.  
@@ -61,7 +61,7 @@ Come up with an idea for a main character and at least two supporting characters
   - Flaws: He takes impossible risks to help those in need
   - Goal: He is obsessed with balancing the scales between those who have and those who have not
 - **Supporting Characters:**  
-  - Character 1: Arthur, Security Guard #1, a young idealistic Javert-type character who despises thoeves, even those stealing from the rich and giving to the poor.
+  - Character 1: Arthur, Security Guard #1, a young idealistic Javert-type character who despises thieves, even those stealing from the rich and giving to the poor.
   - Character 2: Harold, an older, seasoned character who has seen it all, and knows that a mall without Florian is a worse mall.
 
 - **Story Spine (beginning):**  
